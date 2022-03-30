@@ -41,14 +41,14 @@ Link             |  Image of the part
 1. Solder LEDs to star PCB. This first step is the hardest of the tutorial. First tin-coat the electrodes of the LED. Make sure the electrodes are not gated by the tin. Let the PCB star warm to 200&deg;C on a heating plate. Then connect the LED to the PCB star, apply pressure. Take the mounted LED from the plate and let it cool down. Solder the electric wires to PCB.
 
 <p align="center">
-<a> <img src="./IMAGES/solder_LED.jpeg" width="300"></a>
+<a> <img src="./IMAGES/solder_LED.jpeg" width="200"></a>
 </p>
 
 
 2. Build the LED controller circuit. You will need the RECOM DC/DC converter, a potentiometer and electric wires. (TODO: EM filtering with capacitor and inductor). Use a regulated power supply to power the RECOM and another for the potentiometer (TODO: connect Arduino instead).
 
 <p align="center">
-<a> <img src="./IMAGES/RECOM_2.png" width="300"></a>
+<a> <img src="./IMAGES/RECOM_2.png" width="200"></a>
 </p>
 
 3. Mount the blue and purple LEDs on the UC2 star holder according to [UC2 documentation](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_LED). Add the lens mounted on the holder in front of the LED, and the filter mounted on the filter holder. 
@@ -80,7 +80,7 @@ the clamp to hold the filter works fine but is not sufficient to hold the lens w
 6. Combine the two LEDs with the dichroic filter according to this scheme: 
 
 <p align="center">
-<a> <img src="./IMAGES/LED_scheme.png" width="700"></a>
+<a> <img src="./IMAGES/LED_scheme.png" width="300"></a>
 </p>
  
  With [LED 1](https://www.mouser.fr/ProductDetail/997-LHUV0405A065), [LED 2](https://www.mouser.fr/ProductDetail/997-LXZ1PB01), [F1](https://www.comaroptics.com/components/filters/glass-colour-filters), [F2](https://www.comaroptics.com/components/filters/glass-colour-filters), [D1](https://www.comaroptics.com/components/filters/dichroic-filters/long-pass-dichroic-filters), [lens](https://www.thorlabs.de/thorproduct.cfm?partnumber=ACL25416U).
