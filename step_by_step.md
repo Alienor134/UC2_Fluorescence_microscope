@@ -112,3 +112,22 @@ Note: The XY objective holder is great ! The only issue is that the rest positio
  <p align="center">
 <a> <img src="./IMAGES/spot.jpeg" width="300"></a>
 </p>
+
+10. Start to build the second part of the microscope : put the other part of the fiber on an other 3D bloc. (Like in 7.)
+
+
+11. Mount a dichroïc filter on a dichroïc holder cube ([UC2 documentation](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Dichroic_Beamsplitter)) and place it after the fiber like it is shown after :
+
+
+12. Prepare the experiment part : we use XY fine displacement [objective holder](https://github.com/openUC2/UC2_OpenFiberCoupler/blob/main/STL/Application_OpenFiberCoupling_20_Cube_Inser_Flexuremanipulator_v3.stl) in one cube followed by [Generic sample holder](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Sample_Holder) in another cube. 
+
+
+13. Put the experiment part after the dichroïc filter : the incomming light from the fiber must be reflected by the dichroîc filtrer and go through the objective. Then the light emetted by the sample must return through the objective and pass the dichroïc filter without reflexion.
+
+
+14. Print your camera 3D holder model from the [git](https://github.com/openUC2/UC2-GIT/tree/master/CAD) (Search with Ctrl+F), and mount your camera in it. We use a Daheng MER2-503-36U3C camera with [Camera Cube (Allied Vision Alvium)](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Daheng_Imaging).
+
+Note : We also use an IDS camera, and since their is not a camera holder for it, we use the [Camera Cube (Allied Vision Alvium)](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Daheng_Imaging) stuck by two pieces of paper.
+
+
+15. 
