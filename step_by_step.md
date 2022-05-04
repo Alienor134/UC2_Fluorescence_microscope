@@ -32,7 +32,7 @@ Link             |  Image of the part
 [Lens (cylindrical)](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Lens_CYLINDRICAL) | [<img src="https://github.com/openUC2/UC2-GIT/blob/master/CAD/ASSEMBLY_CUBE_Lens_CYLINDRICAL/IMAGES/Assembly_Cube_Lens_Cylindrical__cheap_v3.png" width=200>](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Lens_CYLINDRICAL)
 [Dichroic Beam splitter](https://github.com/openUC2/UC2-GIT/tree/master/CAD//ASSEMBLY_CUBE_Dichroic_Beamsplitter) | [<img src="https://github.com/openUC2/UC2-GIT/blob/master/CAD/ASSEMBLY_CUBE_Dichroic_Beamsplitter/IMAGES/Assembly_Cube_Dichroic_Beamsplitter_25x35_v3.png" width=200>](https://github.com/openUC2/UC2-GIT/tree/master/CAD//ASSEMBLY_CUBE_Dichroic_Beamsplitter)
 [objective holder](https://github.com/openUC2/UC2_OpenFiberCoupler#logo) | [<img src="./IMAGES/objective_holder_fine.png" width=200>](https://github.com/openUC2/UC2_OpenFiberCoupler#logo)
-
+[Generic Sample Holder](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Sample_Holder) | [<img src="./IMAGES/Assembly_Cube_Sample_holder.png" width=200>](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Sample_Holder)
 
 
 
