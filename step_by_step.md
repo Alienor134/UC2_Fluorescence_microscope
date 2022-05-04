@@ -116,7 +116,7 @@ Note: The XY objective holder is great ! The only issue is that the rest positio
 10. Start to build the second part of the microscope : put the other part of the fiber on an other 3D bloc. (Like in 7.)
 
 
-11. Mount a dichroïc filter on a dichroïc holder cube ([UC2 documentation](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Dichroic_Beamsplitter)) and place it after the fiber like it is shown after :
+11. Mount a dichroïc filter on a dichroïc holder cube ([UC2 documentation](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Dichroic_Beamsplitter)) and place it after the fiber according to the schema :
 
 <p align="center">
 <a> <img src="./IMAGES/dichroic_filter_position.png" width="700"></a>
