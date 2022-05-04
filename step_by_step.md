@@ -131,7 +131,7 @@ Note: The XY objective holder is great ! The only issue is that the rest positio
 14. Print your camera 3D holder model from the [git](https://github.com/openUC2/UC2-GIT/tree/master/CAD) (Search with Ctrl+F), and mount your camera in it. We use a Daheng MER2-503-36U3C camera with [Camera Cube (Allied Vision Alvium)](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Daheng_Imaging).
 On the Daheng camera, the fixation consist on three vis :
 <p align="center">
-<a> <img src="./IMAGES/Cube_Daheng.JPG" width="700"></a>
+<a> <img src="./IMAGES/Box_Daheng.jpg" width="700"></a>
 </p>
 
 Note : We also use an IDS camera, and since their is not a camera holder for it, we use the [Camera Cube (Allied Vision Alvium)](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Daheng_Imaging) stuck by two pieces of paper.
@@ -140,5 +140,5 @@ Note : We also use an IDS camera, and since their is not a camera holder for it,
 
 The 2nd part of the microscope should look like that :
 <p align="center">
-<a> <img src="./IMAGES/photo_second_part.JPG" width="700"></a>
+<a> <img src="./IMAGES/photo_second_part.jpg" width="700"></a>
 </p>
