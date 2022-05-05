@@ -126,7 +126,9 @@ Note: The XY objective holder is great ! The only issue is that the rest positio
 
 3. Construct the upper part of the scheme with the objective and the sample holder : we use XY fine displacement [objective holder](https://github.com/openUC2/UC2_OpenFiberCoupler/blob/main/STL/Application_OpenFiberCoupling_20_Cube_Inser_Flexuremanipulator_v3.stl) in one cube followed by [Generic sample holder](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Sample_Holder) in another cube. 
 
-%%Image of the constructed part
+<p align="center">
+<a> <img src="./IMAGES/objective_sample_part.jpg" width="700"></a>
+</p>
 
 4. Combine the dichroïc filter and the objective-sample part : the incomming light from the fiber must be reflected by the dichroîc filtrer and go through the objective. Then the light emitted by the sample must return through the objective and pass the dichroïc filter without reflexion.
 
@@ -139,9 +141,27 @@ On the Daheng camera, the fixation consist on three screws :
 
 Note : We also use an IDS camera, and since there is not a camera holder for it, we use the [Camera Cube (Allied Vision Alvium)](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Daheng_Imaging).
 
-6. Mount an adapted lens on the camera (we used a focal of f = 150) to observe a net image of an object 10 meters from the camera. Then place the sample in his box to observe your sample through the camera. To observe the sample, you may need to adjust your's camera parameters, like the exposure time and the gain. 
+6. Mount an adapted lens on the camera (we used a focal of f = 150 mm) to observe a net image of an object 10 meters from the camera. Then place the sample in his box to observe your sample through the camera. To observe the sample, you may need to adjust your's camera parameters, like the exposure time and the gain. 
+
+<p align="center">
+<a> <img src="./IMAGES/observing_part.jpg" width="700"></a>
+</p>
+Note : Since the lens is heavy, we puted a box at the end of it with a box and a lens holder to keep it straight.
 
 The 2nd part of the microscope should look like that :
 <p align="center">
-<a> <img src="./IMAGES/photo_second_part.jpg" width="700"></a>
+<a> <img src="./IMAGES/imaging_part.jpg" width="700"></a>
+</p>
+
+The final result should be looking like this :
+<p align="center">
+<a> <img src="./IMAGES/microscope.jpg" width="700"></a>
+</p>
+
+With this microscope, with managed to observe some samples :
+<p align="center">
+<a> <img src="./IMAGES/sample_1.jpg" width="700"></a>
+</p>
+<p align="center">
+<a> <img src="./IMAGES/sample_2.jpg" width="700"></a>
 </p>
