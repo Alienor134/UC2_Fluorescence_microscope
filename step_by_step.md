@@ -150,18 +150,18 @@ Note : Since the lens is heavy, we puted a box at the end of it with a box and a
 
 The 2nd part of the microscope should look like that :
 <p align="center">
-<a> <img src="./IMAGES/imaging_part.jpg" width="700"></a>
+<a> <img src="./IMAGES/imaging _part.jpg" width="700"></a>
 </p>
 
 The final result should be looking like this :
 <p align="center">
-<a> <img src="./IMAGES/microscope.jpg" width="700"></a>
+<a> <img src="./IMAGES/microscope.jpeg" width="700"></a>
 </p>
 
 With this microscope, with managed to observe some samples :
 <p align="center">
-<a> <img src="./IMAGES/sample_1.jpg" width="700"></a>
+<a> <img src="./IMAGES/sample_1.jpeg" width="700"></a>
 </p>
 <p align="center">
-<a> <img src="./IMAGES/sample_2.jpg" width="700"></a>
+<a> <img src="./IMAGES/sample_2.jpeg" width="700"></a>
 </p>
