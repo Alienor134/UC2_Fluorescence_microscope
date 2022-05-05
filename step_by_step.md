@@ -113,7 +113,9 @@ Note: The XY objective holder is great ! The only issue is that the rest positio
 <a> <img src="./IMAGES/spot.jpeg" width="300"></a>
 </p>
 
-10. Start to build the second part of the microscope : put the other part of the fiber on an other 3D bloc. (Like in 7.)
+# Objective 2: Illuminate the sample and observe the fluorescent emission. 
+
+10. Start to build the second part of the microscope : put the other end of the fiber on an other 3D bloc. (Like in 7.)
 
 
 11. Mount a dichroïc filter on a dichroïc holder cube ([UC2 documentation](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Dichroic_Beamsplitter)) and place it after the fiber according to the schema :
@@ -122,21 +124,22 @@ Note: The XY objective holder is great ! The only issue is that the rest positio
 <a> <img src="./IMAGES/dichroic_filter_position.png" width="700"></a>
 </p>
 
-12. Prepare the experiment part : we use XY fine displacement [objective holder](https://github.com/openUC2/UC2_OpenFiberCoupler/blob/main/STL/Application_OpenFiberCoupling_20_Cube_Inser_Flexuremanipulator_v3.stl) in one cube followed by [Generic sample holder](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Sample_Holder) in another cube. 
+12. Construct the upper part of the scheme with the objective and the sample holder : we use XY fine displacement [objective holder](https://github.com/openUC2/UC2_OpenFiberCoupler/blob/main/STL/Application_OpenFiberCoupling_20_Cube_Inser_Flexuremanipulator_v3.stl) in one cube followed by [Generic sample holder](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Sample_Holder) in another cube. 
 
+%%Image of the constructed part
 
-13. Put the experiment part after the dichroïc filter : the incomming light from the fiber must be reflected by the dichroîc filtrer and go through the objective. Then the light emetted by the sample must return through the objective and pass the dichroïc filter without reflexion.
+13. Combine the dichroïc filter and the objective-sample part : the incomming light from the fiber must be reflected by the dichroîc filtrer and go through the objective. Then the light emitted by the sample must return through the objective and pass the dichroïc filter without reflexion.
 
 
 14. Print your camera 3D holder model from the [git](https://github.com/openUC2/UC2-GIT/tree/master/CAD) (Search with Ctrl+F), and mount your camera in it. We use a Daheng MER2-503-36U3C camera with [Camera Cube (Allied Vision Alvium)](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Daheng_Imaging).
-On the Daheng camera, the fixation consist on three vis :
+On the Daheng camera, the fixation consist on three screws :
 <p align="center">
 <a> <img src="./IMAGES/Box_Daheng.jpg" width="700"></a>
 </p>
 
-Note : We also use an IDS camera, and since their is not a camera holder for it, we use the [Camera Cube (Allied Vision Alvium)](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Daheng_Imaging) stuck by two pieces of paper.
+Note : We also use an IDS camera, and since there is not a camera holder for it, we use the [Camera Cube (Allied Vision Alvium)](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Daheng_Imaging).
 
-15. Mount an adapted lens on the camera to have theorically a net image on the camera. Then move the sample in his box to observe an actual net image on the camera : check this through your computer (Your camera seetings may need to be adjusted, like the exposure time). 
+15. Mount an adapted lens on the camera (we used a focal of f = 150) to observe a net image of an object 10 meters from the camera. Then place the sample in his box to observe your sample through the camera. To observe the sample, you may need to adjust your's camera parameters, like the exposure time and the gain. 
 
 The 2nd part of the microscope should look like that :
 <p align="center">
