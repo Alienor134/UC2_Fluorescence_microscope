@@ -121,13 +121,13 @@ Note: The XY objective holder is great ! The only issue is that the rest positio
 2. Mount a dichroïc filter on a dichroïc holder cube ([UC2 documentation](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Dichroic_Beamsplitter)) and place it after the fiber according to the schema :
 
 <p align="center">
-<a> <img src="./IMAGES/dichroic_filter_position.png" width="700"></a>
+<a> <img src="./IMAGES/dichroic_filter_position.png" width="500"></a>
 </p>
 
 3. Construct the upper part of the scheme with the objective and the sample holder : we use XY fine displacement [objective holder](https://github.com/openUC2/UC2_OpenFiberCoupler/blob/main/STL/Application_OpenFiberCoupling_20_Cube_Inser_Flexuremanipulator_v3.stl) in one cube followed by [Generic sample holder](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Sample_Holder) in another cube. 
 
 <p align="center">
-<a> <img src="./IMAGES/objective_sample_part.jpg" width="700"></a>
+<a> <img src="./IMAGES/objective_sample_part.jpg" width="300"></a>
 </p>
 
 4. Combine the dichroïc filter and the objective-sample part : the incomming light from the fiber must be reflected by the dichroîc filtrer and go through the objective. Then the light emitted by the sample must return through the objective and pass the dichroïc filter without reflexion.
@@ -136,7 +136,7 @@ Note: The XY objective holder is great ! The only issue is that the rest positio
 5. Print your camera 3D holder model from the [git](https://github.com/openUC2/UC2-GIT/tree/master/CAD) (Search with Ctrl+F), and mount your camera in it. We use a Daheng MER2-503-36U3C camera with [Camera Cube (Allied Vision Alvium)](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Daheng_Imaging).
 On the Daheng camera, the fixation consist on three screws :
 <p align="center">
-<a> <img src="./IMAGES/Box_Daheng.jpg" width="700"></a>
+<a> <img src="./IMAGES/Box_Daheng.jpg" width="200"></a>
 </p>
 
 Note : We also use an IDS camera, and since there is not a camera holder for it, we use the [Camera Cube (Allied Vision Alvium)](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Daheng_Imaging).
@@ -144,24 +144,24 @@ Note : We also use an IDS camera, and since there is not a camera holder for it,
 6. Mount an adapted lens on the camera (we used a focal of f = 150 mm) to observe a net image of an object 10 meters from the camera. Then place the sample in his box to observe your sample through the camera. To observe the sample, you may need to adjust your's camera parameters, like the exposure time and the gain. 
 
 <p align="center">
-<a> <img src="./IMAGES/observing_part.jpg" width="700"></a>
+<a> <img src="./IMAGES/observing_part.jpg" width="300"></a>
 </p>
 Note : Since the lens is heavy, we puted a box at the end of it with a box and a lens holder to keep it straight.
 
 The 2nd part of the microscope should look like that :
 <p align="center">
-<a> <img src="./IMAGES/imaging _part.jpg" width="700"></a>
+<a> <img src="./IMAGES/imaging_part.jpg" width="500" angle="90"></a>
 </p>
 
 The final result should be looking like this :
 <p align="center">
-<a> <img src="./IMAGES/microscope.jpeg" width="700"></a>
+<a> <img src="./IMAGES/microscope.jpeg" width="500"></a>
 </p>
 
 With this microscope, with managed to observe some samples :
 <p align="center">
-<a> <img src="./IMAGES/sample_1.png" width="700"></a>
+<a> <img src="./IMAGES/sample_1.png" width="500"></a>
 </p>
 <p align="center">
-<a> <img src="./IMAGES/sample_2.png" width="700"></a>
+<a> <img src="./IMAGES/sample_2.png" width="500"></a>
 </p>
