@@ -132,6 +132,9 @@ Note: The XY objective holder is great ! The only issue is that the rest positio
 
 4. Combine the dichroïc filter and the objective-sample part : the incomming light from the fiber must be reflected by the dichroîc filtrer and go through the objective. Then the light emitted by the sample must return through the objective and pass the dichroïc filter without reflexion.
 
+<p align="center">
+<a> <img src="./IMAGES/combined_dichroic_sample.jpg" width="300"></a>
+</p>
 
 5. Print your camera 3D holder model from the [git](https://github.com/openUC2/UC2-GIT/tree/master/CAD) (Search with Ctrl+F), and mount your camera in it. We use a Daheng MER2-503-36U3C camera with [Camera Cube (Allied Vision Alvium)](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Daheng_Imaging).
 On the Daheng camera, the fixation consist on three screws :
