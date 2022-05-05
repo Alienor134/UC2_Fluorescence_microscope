@@ -48,7 +48,7 @@ Link             |  Image of the part
 2. Build the LED controller circuit. You will need the RECOM DC/DC converter, a potentiometer and electric wires. (TODO: EM filtering with capacitor and inductor). Use a regulated power supply to power the RECOM and another for the potentiometer (TODO: connect Arduino instead).
 
 <p align="center">
-<a> <img src="./IMAGES/RECOM_2.png" width="200"></a>
+<a> <img src="./IMAGES/RECOM_2.png" width="300"></a>
 </p>
 
 3. Mount the blue and purple LEDs on the UC2 star holder according to [UC2 documentation](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_LED). Add the lens mounted on the holder in front of the LED, and the filter mounted on the filter holder. 
