@@ -1,5 +1,3 @@
-# Objective 1: Inject 2 LEDs combined with a dichroic filter into an optical fiber 
-
 
 ## Bill of materials
 
@@ -34,7 +32,9 @@ Link             |  Image of the part
 [objective holder](https://github.com/openUC2/UC2_OpenFiberCoupler#logo) | [<img src="./IMAGES/objective_holder_fine.png" width=200>](https://github.com/openUC2/UC2_OpenFiberCoupler#logo)
 [Generic Sample Holder](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Sample_Holder) | [<img src="./IMAGES/Assembly_Cube_Sample_holder.png" width=200>](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Sample_Holder)
 [Camera Cube (Allied Vision Alvium)](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Daheng_Imaging) | [<img src="./IMAGES/Assembly_Cube_Daheng_Imaging_v3.png" width=200>](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Daheng_Imaging)
+[Camera Insert Allied Vision Alvium adjustable](https://github.com/openUC2/UC2-GIT/blob/master/CAD/RAW/STL/20_Cube_insert_AlliedVision_Alvium_adjustable_v3.stl) | [<img src="./IMAGES/cube_insert_allied_vision_adjustable.png" width=200>](https://github.com/openUC2/UC2-GIT/blob/master/CAD/RAW/STL/20_Cube_insert_AlliedVision_Alvium_adjustable_v3.stl)
 
+# Objective 1: Inject 2 LEDs combined with a dichroic filter into an optical fiber 
 
 ### Assembly
 
@@ -139,14 +139,14 @@ On the Daheng camera, the fixation consist on three screws :
 <a> <img src="./IMAGES/Box_Daheng.jpg" width="300"></a>
 </p>
 
-Note : We also use an IDS camera, and since there is not a camera holder for it, we use the [Camera Cube (Allied Vision Alvium)](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Daheng_Imaging).
+Note : We also use an IDS camera, and since there is not a camera holder for it, we use the [Camera Insert Allied Vision Alvium adjustable](https://github.com/openUC2/UC2-GIT/blob/master/CAD/RAW/STL/20_Cube_insert_AlliedVision_Alvium_adjustable_v3.stl).
 
 6. Mount an adapted lens on the camera (we used a focal of f = 150 mm) to observe a net image of an object 10 meters from the camera. Then place the sample in his box to observe your sample through the camera. To observe the sample, you may need to adjust your's camera parameters, like the exposure time and the gain. 
 
 <p align="center">
 <a> <img src="./IMAGES/observing_part.jpg" width="300"></a>
 </p>
-Note : Since the lens is heavy, we puted a box at the end of it with a box and a lens holder to keep it straight.
+Note : Since the lens is heavy, we puted a box at the end of it with a lens holder to keep it straight.
 
 The 2nd part of the microscope should look like that :
 <p align="center">
