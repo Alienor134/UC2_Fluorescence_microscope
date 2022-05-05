@@ -136,7 +136,7 @@ Note: The XY objective holder is great ! The only issue is that the rest positio
 5. Print your camera 3D holder model from the [git](https://github.com/openUC2/UC2-GIT/tree/master/CAD) (Search with Ctrl+F), and mount your camera in it. We use a Daheng MER2-503-36U3C camera with [Camera Cube (Allied Vision Alvium)](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Daheng_Imaging).
 On the Daheng camera, the fixation consist on three screws :
 <p align="center">
-<a> <img src="./IMAGES/Box_Daheng.jpg" width="200"></a>
+<a> <img src="./IMAGES/Box_Daheng.jpg" width="300"></a>
 </p>
 
 Note : We also use an IDS camera, and since there is not a camera holder for it, we use the [Camera Cube (Allied Vision Alvium)](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Daheng_Imaging).
@@ -150,12 +150,12 @@ Note : Since the lens is heavy, we puted a box at the end of it with a box and a
 
 The 2nd part of the microscope should look like that :
 <p align="center">
-<a> <img src="./IMAGES/imaging_part.jpg" width="500" angle="90"></a>
+<a> <img src="./IMAGES/imaging_part.jpg" width="700" angle="90"></a>
 </p>
 
 The final result should be looking like this :
 <p align="center">
-<a> <img src="./IMAGES/microscope.jpeg" width="500"></a>
+<a> <img src="./IMAGES/microscope.jpeg" width="700"></a>
 </p>
 
 With this microscope, with managed to observe some samples :
