@@ -160,8 +160,8 @@ The final result should be looking like this :
 
 With this microscope, with managed to observe some samples :
 <p align="center">
-<a> <img src="./IMAGES/sample_1.jpeg" width="700"></a>
+<a> <img src="./IMAGES/sample_1.png" width="700"></a>
 </p>
 <p align="center">
-<a> <img src="./IMAGES/sample_2.jpeg" width="700"></a>
+<a> <img src="./IMAGES/sample_2.png" width="700"></a>
 </p>
