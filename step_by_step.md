@@ -6,17 +6,21 @@
 
 | Component|      Quantity      |  Price per unit | Example|  
 |----------|:-------------:|------:|------:|  
-| High power LED blue 470nm |  1 | 2€ | [Mouser](https://www.mouser.fr/ProductDetail/997-LXZ1PB01)|  
-| High power LED purple 405nm|    1   |   6€ | [Mouser](https://www.mouser.fr/ProductDetail/997-LHUV0405A065)|  
-| PCB star Luxeon Z|    2   |   1€ | [LED mounting bases](https://led-mounting-bases.com/fr/mcpcb-pour-led/340-star-mcpcb-for-1-led-lumileds-luxeon-z-es.html)|
-| Band-pass filter 475 |1 | 27€ | [475 GB 25](https://www.comaroptics.com/components/filters/glass-colour-filters)|  
-| Band pass filter 490| 1| 27€ |[390 GB 25](https://www.comaroptics.com/components/filters/glass-colour-filters)|  
-| High pass filter 480| 1| 45€ |[480 IY 125](https://www.comaroptics.com/components/filters/dichroic-filters/long-pass-dichroic-filters)| 
-| Asphreic condenser lens focal 16mm | 2 |    18€ | [Thorlabs](https://www.thorlabs.de/thorproduct.cfm?partnumber=ACL25416U) |  
-| Optical Fiber 400µm 0.5 NA | 1 |    81€ | [Thorlabs](https://www.thorlabs.com/thorproduct.cfm?partnumber=M45L02) |  
+| High power LED blue 470 nm |  1 | 2 € | [Mouser](https://www.mouser.fr/ProductDetail/997-LXZ1PB01)|  
+| High power LED purple 405 nm|    1   |   6 € | [Mouser](https://www.mouser.fr/ProductDetail/997-LHUV0405A065)|  
+| PCB star Luxeon Z|    2   |   1 € | [LED mounting bases](https://led-mounting-bases.com/fr/mcpcb-pour-led/340-star-mcpcb-for-1-led-lumileds-luxeon-z-es.html)|
+| Band-pass filter 475 nm|1 | 146 €  | [FBH470-10](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=1860&pn=FBH470-10)|  
+| Band pass filter 390 nm| 1| 27 € |[390 GB 25](https://www.comaroptics.com/components/filters/glass-colour-filters)| 
+| Band-pass filter 475 nm|1 | 146 €  | [FBH470-10](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=1860&pn=FBH470-10)|  
+| Band-pass filter 525 nm|1 | 325 €  | [ET525/36](https://www.chroma.com/products/parts/et525-36m)|
+| Band-pass filter 675 nm|1 | 333 €  | [ET675/90](https://www.ahf.de/en/products/spectral-analysis-photonic/optical-filters/individual-filters/bandpass-filters/600-699-nm/2449/675/90-et-bandpass)|   
+| High pass filter 480 nm| 1| 45 € |[480 IY 125](https://www.comaroptics.com/components/filters/dichroic-filters/long-pass-dichroic-filters)| 
+| High pass filter 580 nm| 1| 45 € |[580 IY 125](https://www.comaroptics.com/components/filters/dichroic-filters/long-pass-dichroic-filters)| 
+| Asphreic condenser lens focal 16 mm | 2 |    18 € | [Thorlabs](https://www.thorlabs.de/thorproduct.cfm?partnumber=ACL25416U) |  
+| Optical Fiber 400 µm 0.5 NA | 1 |    81 € | [Thorlabs](https://www.thorlabs.com/thorproduct.cfm?partnumber=M45L02) |  
 | Microscope objective | 1 | --€ | [--](--)|  
-| SMA fiber adaptater | 2 |29€ | [Thorlabs](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1SMA#ad-image-0)|
-| RECOM RCD 24/1.2| 2 |28€ | [Mouser](https://www.mouser.fr/ProductDetail/RECOM-Power/RCD-24-120-W?qs=XF8hdbuHJAW68Zb6thLHmw%3D%3D&mgh=1&vip=1&gclid=Cj0KCQjw_4-SBhCgARIsAAlegrXhc2OQlAVF3fglcc28Iyp3B-155_z7d_U6xnrkKlrQZ5bdMsEOsxkaAsEtEALw_wcB])|
+| SMA fiber adaptater | 2 |29 € | [Thorlabs](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1SMA#ad-image-0)|
+| RECOM RCD 24/1.2| 2 |28 € | [Mouser](https://www.mouser.fr/ProductDetail/RECOM-Power/RCD-24-120-W?qs=XF8hdbuHJAW68Zb6thLHmw%3D%3D&mgh=1&vip=1&gclid=Cj0KCQjw_4-SBhCgARIsAAlegrXhc2OQlAVF3fglcc28Iyp3B-155_z7d_U6xnrkKlrQZ5bdMsEOsxkaAsEtEALw_wcB])|
 | potentiometer | 2 |--€ | [--](--)|
 
 ### UC2 parts
