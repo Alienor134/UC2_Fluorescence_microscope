@@ -1,3 +1,9 @@
+---
+layout: default
+title: Build instructions
+nav_order: 3
+---
+
 
 # Light sources
 ### Soldering

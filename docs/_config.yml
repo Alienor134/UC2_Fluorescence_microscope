@@ -1,8 +1,8 @@
 theme: just-the-docs
-title: UC2 Microscope Documentation
+title: Fluorescence Microscope
 description: Open-source fluorescence microscope documentation
 
-just_the_docs:
+just-the-docs:
   navigation:
     - title: "Home"
       url: "/"

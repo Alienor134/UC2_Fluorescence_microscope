@@ -1,4 +1,10 @@
-## Bill of materials
+---
+layout: default
+title: Bill of materials
+nav_order: 2
+---
+
+# Bill of materials
 
 ### Hardware :gear:
 

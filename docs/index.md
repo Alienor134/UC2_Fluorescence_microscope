@@ -1,5 +1,14 @@
+---
+layout: default
+title: Introduction
+nav_order: 1
+---
 
-# Documentation for *Minimal reproduction and calibration of a fluorescence microscope for single-cell imaging*
+
+
+# Introduction
+
+ Reference: *Minimal reproduction and calibration of a fluorescence microscope for single-cell imaging*
 
 ## Navigation
 - [Home](index.md)
