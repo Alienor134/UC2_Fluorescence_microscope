@@ -1,4 +1,15 @@
 
+# Documentation for *Minimal reproduction and calibration of a fluorescence microscope for single-cell imaging*
+
+## Navigation
+- [Home](index.md)
+- [Bill of Materials](bill_of_materials.md)
+- [Build Instructions](build.md)
+- [Usage Example](automate.md)
+
+---
+
+
 # Purpose
 
 Microscopy is a critical experimental tool in life sciences. However, when attempting to reproduce or scale-up a published method, researchers often meet difficulties in implementing specific protocols, often because they do not have full control over the hardware and software. 
