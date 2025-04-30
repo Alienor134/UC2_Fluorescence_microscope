@@ -1,8 +1,8 @@
-theme: just-the-docs
+theme: minimal
 title: Fluorescence Microscope
 description: Open-source fluorescence microscope documentation
 
-just-the-docs:
+minimal:
   navigation:
     - title: "Home"
       url: "/"
