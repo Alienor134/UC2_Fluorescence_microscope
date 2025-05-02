@@ -18,7 +18,7 @@ nav_order: 3
 ### Control
 If you do not yet have access to LED drivers(exmaple: [1](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=2616), [2](https://www.thorlabs.us/thorProduct.cfm?partNumber=DC4104).), the first option is to build a minimal LED controller circuit. You will need the RECOM DC/DC converter, a potentiometer and electric wires. Use a regulated power supply to power the RECOM and another for the potentiometer. The second option is to build an LED driver. You can follow the instructions here: XXXXX (fork repo Julie).
 
->You can follow the instructions in [this repository](https://github.com/Alienor134/UC2_Fluorescence_microscope/CSL-Lights/README.md) to control the LEDs.
+>You can follow the instructions in [this repository](https://github.com/SonyCSLParis/CSL-Lights) to control the LEDs.
 {: .important}
 
 
@@ -133,7 +133,7 @@ Note : We also use an IDS camera, and since there is not a camera holder for it,
 
 6. Mount an adapted lens on the camera (we used a focal of f = 150 mm). Position the lens to conjugat it with the camra sensr: to do so, observe a net image of an object positionned 10 meters away from the camera. Then, align the lens and camera with the microscope objective and move the sample along the Z-axis to adjust the focus. To observe the sample, you may need to adjust your's camera parameters, like the exposure time and the gain. 
 
->You can follow the instructions in [this repository](https://github.com/Alienor134/UC2_Fluorescence_microscope/Motorized-stage/Z-stage/FocusMicroscope/Readme.md) to automate the movement of the sample.
+>You can follow the instructions in [this repository](https://github.com/SonyCSLParis/Motorized-stage) to automate the movement of the sample.
 {: .important}
 
 <p align="center">
@@ -160,5 +160,5 @@ With this microscope, with managed to observe some samples using the software pr
 </p>
 
 
->You can follow the instructions in [this repository](https://github.com/Alienor134/UC2_Fluorescence_microscope/CSL-camera/README.md) to control the camera using Python.
+>You can follow the instructions in [this repository](https://github.com/SonyCSLParis/CSL-camera) to control the camera using Python.
 {: .important}
