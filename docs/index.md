@@ -11,7 +11,7 @@ nav_order: 1
  Reference: *Minimal reproduction and calibration of a fluorescence microscope for single-cell imaging*
 
 ## Navigation
-- [Intorduction](index.md)
+- [Introduction](index.md)
 - [Bill of Materials](bill_of_materials.md)
 - [Build Instructions](build.md)
 - [Usage Example](automate.md)
