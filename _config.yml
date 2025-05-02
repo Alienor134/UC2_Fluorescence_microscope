@@ -17,7 +17,10 @@ exclude:
   - README.md
   - INVENTOR
   - STL
-  
+  - CSL-Lights
+  - CSL-Serial
+  - CSL-camera
+  - Motorized-stage
 
 
 #just-the-docs:

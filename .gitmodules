@@ -1,0 +1,12 @@
+[submodule "CSL-Lights"]
+	path = CSL-Lights
+	url = https://github.com/SonyCSLParis/CSL-Lights
+[submodule "CSL-Serial"]
+	path = CSL-Serial
+	url = https://github.com/SonyCSLParis/CSL-Serial
+[submodule "Motorized-stage"]
+	path = Motorized-stage
+	url = https://github.com/SonyCSLParis/Motorized-stage
+[submodule "CSL-camera"]
+	path = CSL-camera
+	url = https://github.com/SonyCSLParis/CSL-camera
