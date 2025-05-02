@@ -15,6 +15,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - INVENTOR
+  - STL
+  
 
 
 #just-the-docs:
