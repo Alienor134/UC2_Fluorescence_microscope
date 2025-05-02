@@ -3,15 +3,28 @@ remote_theme: just-the-docs/just-the-docs
 title: Fluorescence Microscope
 description: Open-source fluorescence microscope documentation
 
-source: docs
-just-the-docs:
-  navigation:
-    - title: "Home"
-      url: "/"
-    - title: "Bill of Materials"
-      url: "/bill_of_materials"
-    - title: "Build Instructions"
-      url: "/build"
-    - title: "Usage Example"
-      url: "/automate"
+
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+
+#just-the-docs:
+#  navigation:
+#    - title: "Home"
+#      url: "/"
+#    - title: "Bill of Materials"
+#      url: "/bill_of_materials"
+#    - title: "Build Instructions"
+#      url: "/build"
+#    - title: "Usage Example"
+#      url: "/automate"
 
