@@ -37,7 +37,7 @@ You will also need an LED-cooling system: it can be a copper plate, a radiator, 
 
 Link             |  Image of the part
 :-------------------------:|:-------------------------:
-[Base Plate puzzle](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_Baseplate)  |  [<img src=["https://github.com/openUC2/UC2-GIT/blob/master/CAD/ASSEMBLY_Baseplate/IMAGES/10_Base_puzzle_v3.png" width=200>](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_Baseplate)
+[Base Plate puzzle](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_Baseplate)  | <img src="https://github.com/openUC2/UC2-GIT/blob/master/CAD/ASSEMBLY_Baseplate/IMAGES/10_Base_puzzle_v3.png?raw=true" width="200">
 [CUBE Base](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Base)  |  [<img src="/UC2_Fluorescence_microscope/assets/images/Assembly_Cube_empty_IM_v3.png" width=200>](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Base)
 [LED Star](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_LED) | [<img src="/UC2_Fluorescence_microscope/assets/images/Assembly_Cube_LED_holder_v3.png" width=200>](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_LED)
 [Lens (cylindrical)](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Lens_CYLINDRICAL) | [<img src="/UC2_Fluorescence_microscope/assets/images/Assembly_Cube_Lens_Cylindrical__cheap_v3.png" width=200>](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_CUBE_Lens_CYLINDRICAL)
