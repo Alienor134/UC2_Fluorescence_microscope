@@ -10,3 +10,6 @@
 [submodule "CSL-camera"]
 	path = CSL-camera
 	url = https://github.com/SonyCSLParis/CSL-camera
+[submodule "ControlCamera"]
+	path = ControlCamera
+	url = https://github.com/SonyCSLParis/ControlCamera.git
