@@ -13,3 +13,6 @@
 [submodule "ControlCamera"]
 	path = ControlCamera
 	url = https://github.com/SonyCSLParis/ControlCamera.git
+[submodule "ControlSerial"]
+	path = ControlSerial
+	url = https://github.com/SonyCSLParis/ControlSerial
