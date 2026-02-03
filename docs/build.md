@@ -162,3 +162,8 @@ With this microscope, with managed to observe some samples using the software pr
 
 >You can follow the instructions in [this repository](https://github.com/SonyCSLParis/CSL-camera) to control the camera using Python.
 {: .important}
+
+
+## Example of use
+
+For an example of project using this hardware you can refer to [this page](https://alienor134.github.io/UC2_Fluorescence_microscope/docs/example)

@@ -14,7 +14,7 @@ nav_order: 1
 - [Introduction](index.md)
 - [Bill of Materials](bill_of_materials.md)
 - [Build Instructions](build.md)
-- [Usage Example](automate.md)
+- [Software](automate.md)
 
 ---
 
@@ -35,7 +35,7 @@ In this repository we provide:
 - A [bill of materials](bill_of_materials.md) to reproduce the microscope 
 - [Build instructions](build)
 - Python packages to use the library: they each have their specific documentation
-- [Usage example](automate.md) with support codes
+- [Software](automate.md) summary with support codes
 
 # License
 

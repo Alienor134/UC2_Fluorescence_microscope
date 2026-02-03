@@ -1,26 +1,25 @@
-# UC2 Fluorescence Microscope with Infinity Optics
-
-<p align="left">
-<a href="#logo" name="logo"><img src="https://raw.githubusercontent.com/bionanoimaging/UC2-GIT/master/IMAGES/UC2_logo_text.png" width="400"></a>
-</p>
+# Fluorescence microscope adapted with UC2 library
 
 [![License: CERN-OHL-S-2.0](https://img.shields.io/badge/Hardware%20License-CERN--OHL--S--2.0-blue.svg)](LICENSE)
 [![License: GPL-3.0](https://img.shields.io/badge/Software%20License-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![DOI](https://img.shields.io/badge/DOI-Add%20after%20Zenodo-orange.svg)](https://zenodo.org)
 
-An open-source, modular laser-based fluorescence microscope with infinity optics. This system is capable of acquiring time-lapse videos from living cells inside an incubator and supports X/Y/Z/t acquisitions, quantitative phase imaging, and fluorescent imaging.
+An open-source, modular LED-based fluorescence microscope with infinity optics. This system is capable of acquiring time-lapse videos from living cells inside an incubator and supports X/Y/Z/t acquisitions and fluorescent imaging.
+
+**Intended Audience**: Researchers, engineers, and makers working on laboratory automation, microscopy, robotics, or hardware-software interfacing. This module is designed for users who need robust serial communication between Python and Arduino for instrument control, data acquisition, or interactive hardware systems.
+
+
+![alt text](assets/images/optical_table_side.png)
 
 ## Documentation
 
 Access the full [documentation website](https://alienor134.github.io/UC2_Fluorescence_microscope/docs)
 
-See also [README_openUC2.md](README_openUC2.md) for detailed hardware assembly information.
 
 ## Repository Structure
 
-- **Hardware**: CAD files in `INVENTOR/` (source) and `STL/` (3D printing)
+- **Hardware**: CAD files in `INVENTOR/` (source) and `STL/` (3D printing). Specific hardware ca also be found in the submodules, in particular for different motorization options 
 - **Software**: Control modules as Git submodules (`ControlCamera`, `ControlLight`, `ControlMotors`, `ControlSerial`)
-- **Data Management**: Altar suite for experiment tracking and visualization
 - **Documentation**: Build guides, automation, and bills of materials in `docs/`
 
 ## Quick Start
@@ -32,7 +31,7 @@ cd UC2_Fluorescence_microscope
 git submodule update --init --recursive
 ```
 
-For detailed setup instructions, see [docs/automate.md](docs/automate.md)
+The instrument can run without specific software except the camera. The LED control and motor control are optional and can be replaced by manual actions. Still, for detailed setup instructions of the software, see [docs/automate.md](docs/automate.md)
 
 ## License and Attribution
 
@@ -62,17 +61,22 @@ This repository's releases are permanently archived on Zenodo, providing stable 
 This project builds upon several open-source initiatives:
 
 ### Hardware Acknowledgments
-- **[OpenUC2](https://github.com/openUC2/UC2-GIT)**: Base modular cube system and optical components
+- **[OpenUC2](https://github.com/openUC2/UC2-GIT)**: Base modular cube system and optical components.
+
+### Software Acknowledgments
+- **[pymmcore-plus](https://pymmcore-plus.github.io/pymmcore-plus/)** to facilitate working with Micro-manager backend in pure Python/C environments.
+- **[ROMI project](https://github.com/romi)** (Sony CSL) providing open-source tools to control hardware with Arduino and Python.
+- **[Sacred](https://github.com/IDSIA/sacred)** to organise automated experimental runs. 
 
 
 
-## ⚖️ OSHWA Compliance
+## OSHWA Compliance
 
 This project follows the [Open Source Hardware Association (OSHWA) definition](https://www.oshwa.org/definition/) of open-source hardware. All design files, documentation, and bills of materials are freely available. Modifications and derivatives are encouraged under the terms of the CERN-OHL-S-2.0 license.
 
 For complete OSHWA compliance details, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## 📝 Version Information
+## Version Information
 
 - **Current Version**: 1.0.0
 - **Last Updated**: January 2026
