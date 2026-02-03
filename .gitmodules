@@ -19,3 +19,6 @@
 [submodule "ControlLight"]
 	path = ControlLight
 	url = ./ControlLight
+[submodule "ControlMotors"]
+	path = ControlMotors
+	url = ./ControlMotors
