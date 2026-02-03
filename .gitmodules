@@ -16,3 +16,6 @@
 [submodule "ControlSerial"]
 	path = ControlSerial
 	url = https://github.com/SonyCSLParis/ControlSerial
+[submodule "ControlLight"]
+	path = ControlLight
+	url = ./ControlLight
