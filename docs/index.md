@@ -10,6 +10,9 @@ nav_order: 1
 
  Reference: *Minimal reproduction and calibration of a fluorescence microscope for single-cell imaging*
 
+![alt text](/UC2_Fluorescence_microscope/assets/images/optical_table_side.png)
+*Picture of the final set-up*
+
 ## Navigation
 - [Introduction](index.md)
 - [Bill of Materials](bill_of_materials.md)
@@ -39,8 +42,26 @@ In this repository we provide:
 
 # License
 
-Copyright (C) 2025 Sony Computer Science Laboratories 
+**Hardware License**
 
-You can redistribute it and/or modify  it under the terms of the GNU General Public License as published by   the Free Software Foundation, either version 3 of the License, or   (at your option) any later version.  This project is distributed in the hope that it will be useful, but  WITHOUT ANY WARRANTY; without even the implied warranty of   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU  General Public License for more details.  You should have received a copy of the GNU General Public License  along with this program.  If not, see  <http://www.gnu.org/licenses/>.
+The hardware designs (CAD files, STL files, and mechanical assemblies) are licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0). See LICENSE for full text.
 
-This work was supported by the European Innovation Council Pathfinder Open DREAM (grant no. 101046451)
+
+**Software License**
+
+The control software modules are licensed under the GNU General Public License v3.0 (GPL-3.0) or later. See individual LICENSE files in each submodule directory.
+
+**Documentation License**
+
+Documentation is licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+
+# Attributions
+
+This project is based on the [UC2 fluorescence microscope](https://github.com/openUC2/UC2_Fluorescence_microscope?tab=readme-ov-file) by OpenUC2, licensed under CERN-OHL-S v2.   
+**Modifications**: light source (from laser to LED), motorized focus, software.
+**Additions**: dual illumination, optical fiber injection, data management.
+The original authors do not endorse this version.
+
+# Contributing
+
+The guidelines to contribute to the project (including versionning and attribution statements) are listed in the [README](https://github.com/Alienor134/UC2_Fluorescence_microscope/blob/main/README.md) page of this project. 

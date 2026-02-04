@@ -5,10 +5,10 @@
 
 ## Summary of the available software
 
-[ControlSerial](https://github.com/Alienor134/UC2_Fluorescence_microscope) - Python serial interface
-[ControlMotors](https://github.com/Alienor134/UC2_Fluorescence_microscope) - Motor control
-[ControlCamera](https://github.com/Alienor134/UC2_Fluorescence_microscope) - Camera acquisition interface
-[ControlLight](https://github.com/Alienor134/UC2_Fluorescence_microscope) - LED and laser control
+[ControlSerial](https://github.com/Alienor134/UC2_Fluorescence_microscope) - Python serial interface  
+[ControlMotors](https://github.com/Alienor134/UC2_Fluorescence_microscope) - Motor control  
+[ControlCamera](https://github.com/Alienor134/UC2_Fluorescence_microscope) - Camera acquisition interface  
+[ControlLight](https://github.com/Alienor134/UC2_Fluorescence_microscope) - LED and laser control  
 
 
 ## Install instructions

@@ -35,6 +35,8 @@ You will also need an LED-cooling system: it can be a copper plate, a radiator, 
 ### UC2 parts
 
 
+All the design files to build the microscope can be found in this [repository](https://github.com/Alienor134/UC2_Fluorescence_microscope/tree/main/STL). If you wish to edit the designs, the original CAD files are also available [here](https://github.com/Alienor134/UC2_Fluorescence_microscope/tree/main/CAD).
+
 Link             |  Image of the part
 :-------------------------:|:-------------------------:
 [Base Plate puzzle](https://github.com/openUC2/UC2-GIT/tree/master/CAD/ASSEMBLY_Baseplate)  | <img src="https://github.com/openUC2/UC2-GIT/blob/master/CAD/ASSEMBLY_Baseplate/IMAGES/10_Base_puzzle_v3.png?raw=true" width="200">
