@@ -46,7 +46,7 @@ If any file missing, raise an issue in Gtihub repository and we will address it.
 ### Licenses
 
 #### Hardware License
-The hardware designs (CAD files, STL files, and mechanical assemblies) are licensed under the **CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0)**. See [LICENSE](LICENSE) for full text.
+The hardware designs (CAD files, STL files, and mechanical assemblies) are licensed under the **CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0)**. See [LICENSE](License.md) for full text. The license is inherited from the OpenUC2 project.
 
 #### Software License
 The control software modules are licensed under the **GNU General Public License v3.0 (GPL-3.0)** or later. See individual LICENSE files in each submodule directory.
