@@ -4,11 +4,6 @@
 [![License: GPL-3.0](https://img.shields.io/badge/Software%20License-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![DOI](https://zenodo.org/badge/974776636.svg)](https://doi.org/10.5281/zenodo.18483954)
 
-<<<<<<< Updated upstream
-
-
-=======
->>>>>>> Stashed changes
 
 An open-source, modular LED-based fluorescence microscope with infinity optics. This system is capable of acquiring time-lapse videos from living cells inside an incubator and supports X/Y/Z/t acquisitions and fluorescent imaging.
 
