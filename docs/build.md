@@ -16,9 +16,11 @@ nav_order: 3
 
 
 ### Control
-If you do not yet have access to LED drivers(example: [1](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=2616), [2](https://www.thorlabs.us/thorProduct.cfm?partNumber=DC4104).), the first option is to build a minimal LED controller circuit. You will need the RECOM DC/DC converter, a potentiometer and electric wires. Use a regulated power supply to power the RECOM and another for the potentiometer. The second option is to build an LED driver. You can follow the instructions [HERE](https://github.com/Alienor134/CSL-light-hardware).
+If you do not yet have access to LED drivers(example: [1](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=2616), [2](https://www.thorlabs.us/thorProduct.cfm?partNumber=DC4104).), the first option is to build a minimal LED controller circuit. You will need the RECOM DC/DC converter, a potentiometer and electric wires. Use a regulated power supply to power the RECOM and another for the potentiometer. 
 
->You can follow the instructions in [this repository](https://github.com/SonyCSLParis/CSL-Lights) to control the LEDs.
+The second option is to build an LED driver. We are currently develping a board allowing to build the LED controller. You can find the first design files [HERE - v1](https://github.com/Julie-Mauguit/CSL-light-hardware) and the second version [HERE - V2](https://github.com/corset-damien/CSL-light-hardware). Disclaimer: This work is not stable yet (beta). 
+
+>You can follow the instructions in [this repository](https://github.com/SonyCSLParis/ControlLight) to control the LEDs.
 {: .important}
 
 
@@ -160,7 +162,7 @@ With this microscope, with managed to observe some samples using the software pr
 </p>
 
 
->You can follow the instructions in [this repository](https://github.com/SonyCSLParis/CSL-camera) to control the camera using Python.
+>You can follow the instructions in [this repository](https://github.com/SonyCSLParis/ControlCamera) to control the camera using Python.
 {: .important}
 
 
