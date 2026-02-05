@@ -2,11 +2,12 @@
 
 [![License: CERN-OHL-S-2.0](https://img.shields.io/badge/Hardware%20License-CERN--OHL--S--2.0-blue.svg)](LICENSE)
 [![License: GPL-3.0](https://img.shields.io/badge/Software%20License-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![DOI](https://img.shields.io/badge/DOI-Add%20after%20Zenodo-orange.svg)](https://zenodo.org)
+[![DOI](https://zenodo.org/badge/974776636.svg)](https://doi.org/10.5281/zenodo.18483954)
+
 
 An open-source, modular LED-based fluorescence microscope with infinity optics. This system is capable of acquiring time-lapse videos from living cells inside an incubator and supports X/Y/Z/t acquisitions and fluorescent imaging.
 
-**Intended Audience**: Researchers, engineers, and makers working on laboratory automation, microscopy, robotics, or hardware-software interfacing. This module is designed for users who need robust serial communication between Python and Arduino for instrument control, data acquisition, or interactive hardware systems.
+**Intended Audience**: Researchers, engineers, microscopists interested in reducing the cost of hardware development for optical systems and produce quick prototypes. 
 
 
 ![alt text](assets/images/optical_table_side.png)
@@ -87,13 +88,13 @@ The documentation is automatically generated via Github Pages and should be upda
 - **Current Version**: 1.0.0
 - **Last Updated**: January 2026
 - **Git Repository**: https://github.com/Alienor134/UC2_Fluorescence_microscope
-- **Zenodo DOI**: [To be added after deposit]
+- **Zenodo DOI**: https://doi.org/10.5281/zenodo.18483954
 
 
 
 ## Citation
 
-If you use this microscope design in your research, please cite it properly. We have registered this project on Zenodo for permanent archival with a persistent DOI.
+If you use this microscope design in your research, please cite it properly. We have registered this project on Zenodo for permanent archival with a persistent DOI (https://doi.org/10.5281/zenodo.18483954).
 
 
 ## Acknowledgments
