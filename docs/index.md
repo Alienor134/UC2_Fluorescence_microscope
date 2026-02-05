@@ -13,6 +13,8 @@ nav_order: 1
 ![alt text](/UC2_Fluorescence_microscope/assets/images/optical_table_side.png)
 *Picture of the final set-up*
 
+> Source code: [UC2_Fluorescence_microscope on GitHub](https://github.com/Alienor134/UC2_Fluorescence_microscope)
+
 ## Navigation
 - [Introduction](index.md)
 - [Bill of Materials](bill_of_materials.md)
@@ -44,7 +46,7 @@ In this repository we provide:
 
 **Hardware License**
 
-The hardware designs (CAD files, STL files, and mechanical assemblies) are licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0). See LICENSE for full text.
+The hardware designs (CAD files, STL files, and mechanical assemblies) are licensed under the CERN Open Hardware Licence Version 1.2 (CERN-OHL-S-1.2). See LICENSE for full text.
 
 
 **Software License**

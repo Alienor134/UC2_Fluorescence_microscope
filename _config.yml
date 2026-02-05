@@ -4,6 +4,12 @@ title: Fluorescence Microscope
 description: Open-source fluorescence microscope documentation
 
 
+# Add a header link to the original GitHub repository
+aux_links:
+  "View on GitHub":
+    - "https://github.com/Alienor134/UC2_Fluorescence_microscope"
+
+
 defaults:
   - scope:
       path: "docs" # an empty string here means all files in the project

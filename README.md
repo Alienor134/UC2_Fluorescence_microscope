@@ -4,8 +4,11 @@
 [![License: GPL-3.0](https://img.shields.io/badge/Software%20License-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![DOI](https://zenodo.org/badge/974776636.svg)](https://doi.org/10.5281/zenodo.18483954)
 
+<<<<<<< Updated upstream
 
 
+=======
+>>>>>>> Stashed changes
 
 An open-source, modular LED-based fluorescence microscope with infinity optics. This system is capable of acquiring time-lapse videos from living cells inside an incubator and supports X/Y/Z/t acquisitions and fluorescent imaging.
 
@@ -49,7 +52,7 @@ If any file missing, raise an issue in Gtihub repository and we will address it.
 ### Licenses
 
 #### Hardware License
-The hardware designs (CAD files, STL files, and mechanical assemblies) are licensed under the **CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0)**. See [LICENSE](License.md) for full text. The license is inherited from the OpenUC2 project.
+The hardware designs (CAD files, STL files, and mechanical assemblies) are licensed under the **CERN Open Hardware Licence Version 1 (CERN-OHL-S-1.2)**. See [LICENSE](License.md) for full text. The license is inherited from the OpenUC2 project.
 
 #### Software License
 The control software modules are licensed under the **GNU General Public License v3.0 (GPL-3.0)** or later. See individual LICENSE files in each submodule directory.
